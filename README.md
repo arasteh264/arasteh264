@@ -1,30 +1,55 @@
-Hi 👋, I'm Mohammad Mahdi Arasteh
-#
-# 💫 About Me:
-💫 About Me
+<h1 align="center">Hi 👋, I'm Mohammad Mahdi Arasteh</h1>
 
-I'm a Front-End Developer passionate about building modern, fast, and user-friendly web applications.
-
-My primary focus is React, Next.js, and TypeScript, where I enjoy transforming complex ideas into clean and intuitive user experiences.
-
-I believe that consistency and continuous learning are the foundation of growth, which is why I'm always exploring new technologies, improving my problem-solving skills, and challenging myself with real-world projects.
-
-Currently, I'm focused on deepening my knowledge of full-stack development and scalable web architectures.
-#
-🌱 Currently Learning
-<br>
-Full-Stack Development
-<br>
-Scalable Web Architecture
-<br>
-System Design Fundamentals
-<br>
-Backend Development with Node.js
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammadmahdi_arasteh315) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-mahdi-arasteh-496491244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arasteh264@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p align="center">
+Frontend Developer passionate about building modern, fast and user-friendly web applications.
+</p>
 
 ---
+
+## 🚀 About Me
+
+- 🔭 Focused on React, Next.js and TypeScript
+- 🌱 Currently learning Full-Stack Development
+- 🏗️ Interested in Scalable Web Architecture
+- 💡 Love creating clean and intuitive user experiences
+- 📫 Reach me at: **arasteh264@gmail.com**
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://instagram.com/mohammadmahdi_arasteh315">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://linkedin.com/in/mohammad-mahdi-arasteh-496491244">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express" />
+</p>
+
+### Styling & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</p>
+
+### Database & Backend Services
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+---
+
+📌 Always learning, always building.
